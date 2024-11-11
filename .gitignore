@@ -27,3 +27,7 @@ mock
 
 # .Ds_Store files
 .DS_Store
+
+# terraform files
+terraform.*
+.terraform*
